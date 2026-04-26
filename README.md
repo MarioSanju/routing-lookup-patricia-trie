@@ -33,6 +33,13 @@ The implementation reads routing information from input files, builds a compress
 - `prueba*.txt` → input test files
 - `Makefile` → build configuration
 
+## What I learned
+Working with low-level C data structures
+Implementing compressed trie structures
+Processing binary IP representations
+Applying longest prefix matching
+Optimizing lookup efficiency
+
 ## How to run
 
 Compile the project:
@@ -41,10 +48,5 @@ Compile the project:
 make
 ./my_route_lookup routing_table.txt prueba0.txt
 
-## What I learned
-Working with low-level C data structures
-Implementing compressed trie structures
-Processing binary IP representations
-Applying longest prefix matching
-Optimizing lookup efficiency
+
 
