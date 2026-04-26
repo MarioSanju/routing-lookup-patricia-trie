@@ -39,3 +39,11 @@ Compile the project:
 
 ```bash
 make
+
+
+What I learned
+Working with low-level C data structures
+Implementing compressed trie structures
+Processing binary IP representations
+Applying longest prefix matching
+Optimizing lookup efficiency
