@@ -39,11 +39,12 @@ Compile the project:
 
 ```bash
 make
+./my_route_lookup routing_table.txt prueba0.txt
 
-
-What I learned
+## What I learned
 Working with low-level C data structures
 Implementing compressed trie structures
 Processing binary IP representations
 Applying longest prefix matching
 Optimizing lookup efficiency
+
